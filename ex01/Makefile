@@ -1,6 +1,6 @@
 NAME	=	phone_book
 SRC		=	main.cpp
-CXX		=	c++
+CXX		=	c++ -std=c++98
 CXXFLAGS=	-Wall -Wextra -Werror
 
 all: $(NAME)

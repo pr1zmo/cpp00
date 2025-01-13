@@ -1,3 +1,6 @@
 /.vscode
 /.idea
 *.tldr
+test*
+phone_book
+megaphone

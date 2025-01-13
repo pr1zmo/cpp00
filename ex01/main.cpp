@@ -5,7 +5,7 @@ int main(int ac, char **av)
 {
 	(void)ac;
 	(void)av;
-	PhoneBook	book1;
+	// PhoneBook	book1;
 
 	return (0);
 }

@@ -1,6 +1,6 @@
 NAME	=	megaphone
 SRC		=	megaphone.cpp
-CXX		=	c++
+CXX		=	c++ -std=c++98
 CXXFLAGS=	-Wall -Wextra -Werror
 
 all: $(NAME)
